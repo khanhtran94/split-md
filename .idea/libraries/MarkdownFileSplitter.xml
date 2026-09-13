@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MarkdownFileSplitter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MarkdownFileSplitter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
